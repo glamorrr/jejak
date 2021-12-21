@@ -20,7 +20,7 @@ const AwardSection = () => {
         textAlign="center"
         fontSize="xl"
       >
-        Kemendikbud: Aplikasi Produktivitas Terbaik 2021
+        Aplikasi Produktivitas Terbaik 2021
       </Text>
     </Flex>
   );
